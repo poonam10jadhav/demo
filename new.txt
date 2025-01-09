@@ -1,9 +1,5 @@
 my name is poonam 
 my friend name is bhakti
-<<<<<<< HEAD
 hiimy second friend name is nayan and kunal
 jhjhgh
 new code added
-=======
-my second friend name is nayan and kunal
->>>>>>> parent of f55e534 (new file adede)
